@@ -1,0 +1,61 @@
+C:\Users\Admin\Documents\Visual Studio 2019\MesProjetAP\Campinghosni_AP\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\Admin\Documents\Visual Studio 2019\MesProjetAP\Campinghosni_AP\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\Admin\Documents\Visual Studio 2019\MesProjetAP\Campinghosni_AP\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\Admin\Documents\Visual Studio 2019\MesProjetAP\Campinghosni_AP\PlayerUI\obj\Debug\CampingMacon.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2019\MesProjetAP\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.FormAjoutReservation.resources
+C:\Users\Admin\Documents\Visual Studio 2019\MesProjetAP\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.FormMain.resources
+C:\Users\Admin\Documents\Visual Studio 2019\MesProjetAP\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.FormMobilhome.resources
+C:\Users\Admin\Documents\Visual Studio 2019\MesProjetAP\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.FormTypeMob.resources
+C:\Users\Admin\Documents\Visual Studio 2019\MesProjetAP\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2019\MesProjetAP\Campinghosni_AP\PlayerUI\obj\Debug\CampingMacon.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2019\MesProjetAP\Campinghosni_AP\PlayerUI\obj\Debug\CampingMacon.csproj.CopyComplete
+C:\Users\Admin\Documents\Visual Studio 2019\MesProjetAP\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\Admin\Documents\Visual Studio 2019\MesProjetAP\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Admin\Documents\Visual Studio 2019\MesProjetAP\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.FormModificationReservation.resources
+C:\Users\Admin\Desktop\Campinghosni_AP\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\Admin\Desktop\Campinghosni_AP\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\Admin\Desktop\Campinghosni_AP\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\Admin\Desktop\Campinghosni_AP\PlayerUI\obj\Debug\CampingMacon.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.FormAjoutReservation.resources
+C:\Users\Admin\Desktop\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.FormEditionPDF.resources
+C:\Users\Admin\Desktop\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.FormMain.resources
+C:\Users\Admin\Desktop\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.FormModificationReservation.resources
+C:\Users\Admin\Desktop\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.FormMobilhome.resources
+C:\Users\Admin\Desktop\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.FormTypeMob.resources
+C:\Users\Admin\Desktop\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\Campinghosni_AP\PlayerUI\obj\Debug\CampingMacon.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Campinghosni_AP\PlayerUI\obj\Debug\CampingMacon.csproj.CopyComplete
+C:\Users\Admin\Desktop\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\Admin\Desktop\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Admin\Documents\Visual Studio 2019\MesProjetAP\Campinghosni_AP\PlayerUI\obj\Debug\PlayerUI.FormEditionPDF.resources
+C:\CampingHosniLilian_AP\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\CampingHosniLilian_AP\PlayerUI\bin\Debug\PlayerUI.exe
+C:\CampingHosniLilian_AP\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\CampingHosniLilian_AP\PlayerUI\obj\Debug\CampingMacon.csprojAssemblyReference.cache
+C:\CampingHosniLilian_AP\PlayerUI\obj\Debug\PlayerUI.FormAjoutReservation.resources
+C:\CampingHosniLilian_AP\PlayerUI\obj\Debug\PlayerUI.FormEditionPDF.resources
+C:\CampingHosniLilian_AP\PlayerUI\obj\Debug\PlayerUI.FormMain.resources
+C:\CampingHosniLilian_AP\PlayerUI\obj\Debug\PlayerUI.FormModificationReservation.resources
+C:\CampingHosniLilian_AP\PlayerUI\obj\Debug\PlayerUI.FormMobilhome.resources
+C:\CampingHosniLilian_AP\PlayerUI\obj\Debug\PlayerUI.FormTypeMob.resources
+C:\CampingHosniLilian_AP\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\CampingHosniLilian_AP\PlayerUI\obj\Debug\CampingMacon.csproj.GenerateResource.cache
+C:\CampingHosniLilian_AP\PlayerUI\obj\Debug\CampingMacon.csproj.CopyComplete
+C:\CampingHosniLilian_AP\PlayerUI\obj\Debug\PlayerUI.exe
+C:\CampingHosniLilian_AP\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\obj\Debug\CampingMacon.csproj.AssemblyReference.cache
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\obj\Debug\PlayerUI.FormAjoutReservation.resources
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\obj\Debug\PlayerUI.FormEditionPDF.resources
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\obj\Debug\PlayerUI.FormMain.resources
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\obj\Debug\PlayerUI.FormModificationReservation.resources
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\obj\Debug\PlayerUI.FormMobilhome.resources
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\obj\Debug\PlayerUI.FormTypeMob.resources
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\obj\Debug\CampingMacon.csproj.GenerateResource.cache
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\obj\Debug\CampingMacon.csproj.CoreCompileInputs.cache
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\obj\Debug\CampingMacon.csproj.CopyComplete
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\Hosni\Documents\DOCUMENTS\PROJET_BTS\CampingHosni_AP\PlayerUI\obj\Debug\PlayerUI.pdb
